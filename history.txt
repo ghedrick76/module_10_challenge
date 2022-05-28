@@ -1,0 +1,970 @@
+   50  type pip
+   51  pip3 install fire
+   52  pip3 install fire
+   53  python cli.py
+   54  python cli.py
+   55  python cli.py
+   56  python cli.py
+   57  ls
+   58  cd Clothes_Picker
+   59  ls
+   60  python cli.py
+   61  python cli.py --pants=True
+   62  python random.py
+   63  pip install fire
+   64  pip install questionary
+   65  pwd
+   66  ls
+   67  python cli.py
+   68  python cli.py
+   69  python cli.py --pants(True)
+   70  python cli.py --pants=True
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  cd ..
+   75  cd ..
+   76  cd ..
+   77  cd downloads
+   78  ls
+   79  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+   80  ls
+   81  cd unsolved
+   82  ls
+   83  python app.py
+   84  python app.py
+   85  python app.py --credit_score=750
+   86  python app.py --credit_score=500
+   87  python app.py --credit_score=500 --debt=1000 --income=100000
+   88  python app.py --credit_score=500, --debt=1000, --income=100000
+   89  python app.py --credit_score=500 --debt=5000 --income=100000
+   90  python app.py --credit_score=500 --debt=5000 --income=100000
+   91  python app.py --credit_score=750 --debt=5000 --income=100000
+   92  pwd
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd ..
+   97  ls
+   98  cd /Users/Grayson/desktop/FinTech-Workspace/python_project
+   99  ls
+  100  cd module\ 2
+  101  ls
+  102  python dialog.py
+  103  python dialog.py
+  104  python dialog.py
+  105  python dialog.py
+  106  python dialog.py
+  107  python dialog.py
+  108  python dialog.py
+  109  python dialog.py
+  110  ls
+  111  pwd
+  112  cd users/grayson
+  113  cd /users/grayson/downloads/02_Adding_questionary_to_Loan_Qualifier
+  114  cd unsolved
+  115  python app,py
+  116  ls
+  117  python app.py
+  118  python app.py --credit_score=750 --debt=500 --income=20000
+  119  python app.py
+  120  python app.py
+  121  python app.py
+  122  python app.py
+  123  python app.py
+  124  python app.py
+  125  python app.py
+  126  git config --global ghedrick76 <Grayson Hedrick>
+  127  git config --global ghedrick76 Grayson Hedrick
+  128  git config --global user.ghedrick76 Grayson Hedrick
+  129  git config --global user.graysonh76@icloud.com graysonh76@icloud.com
+  130  git config --list
+  131  cd /users/grayson
+  132  mkdir GitHub
+  133  ls
+  134  cd github
+  135  git clone https://github.com/ghedrick76/Test_Repo.git
+  136  pwd
+  137  ls
+  138  cd Test_Repo
+  139  ls
+  140  git status
+  141  git add README.md
+  142  git status
+  143  touch new_file.txt
+  144  ls
+  145  git status
+  146  git add new_file.txt
+  147  ls
+  148  git status
+  149  git commit -m "edited readme and added new text file"
+  150  git status
+  151  git push
+  152  git push
+  153  git push
+  154  git push
+  155  conda create -n atmdev python=3.7 anaconda
+  156  conda activate atmdev
+  157  pip install -r requirements.txt
+  158  cd /users/grayson
+  159  cd downloads
+  160  ls
+  161  cd Class_2_Activities\ 2/
+  162  ls
+  163  cd 02_Stu_Build_ATM_Functions
+  164  ls
+  165  cd unsolved
+  166  ls
+  167  cd atm
+  168  ls
+  169  python atm.py
+  170  conda activate dev
+  171  conda activate dev
+  172  python atm.py
+  173  python atm.py
+  174  pwd
+  175  cd /users/grayson/documents
+  176  ls
+  177  cd ..
+  178  desktop
+  179  cd desktop
+  180  cd fintech-workspace/python_project
+  181  ls
+  182  cd module\ 2/
+  183  mkdir atm_application
+  184  ls
+  185  cd atm_application
+  186  git clone https://github.com/ghedrick76/ATM_program.git
+  187  cd ..
+  188  ls
+  189  git clone /Users/grayson/Downloads/Class_2_Activities\ 2/02_Stu_Build_ATM_Functions/Unsolved/atm 
+  190  git clone https://github.com/ghedrick76/ATM_program.git
+  191  pwd
+  192  git status
+  193  git add atm_application
+  194  git add /users/grayson/desktop/fintech-workspace/python_project/module\ 2/ 
+  195  git status
+  196  git restore  /users/grayson/desktop/fintech-workspace/python_project/module\ 2/ 
+  197  git status
+  198  git restore --staged  /users/grayson/desktop/fintech-workspace/python_project/module\ 2/ 
+  199  git status
+  200  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program
+  201  pwd
+  202  ls
+  203  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program\n
+  204  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program\nls
+  205  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program
+  206  git status
+  207  git add /users/grayson/desktop/fintech-workspace/python_program/module\ 2/atm_program
+  208  git status
+  209  git add ../../../../desktop/fintech-workspace/python_project/module 2/ATM_program
+  210  git status
+  211  git add /users/grayson/desktop/fintech-workspace/python_project/module\ 2/atm_program
+  212  git push
+  213  git push --set-upstream origin main
+  214  git pull
+  215  git status
+  216  git pull ghedrick76/atm_program
+  217  git push
+  218  git push --set-upstream origin main
+  219  git pull https://github.com/ghedrick76/Fintech-Course.git
+  220  ls
+  221  git push
+  222  git clone https://github.com/ghedrick76/ATM_program.git
+  223  git clone https://github.com/ghedrick76/ATM_program.git
+  224  git status
+  225  git add /users/grayson/desktop/fintech-workspace/python_project/module\ 2/atm_program
+  226  git push
+  227  git status
+  228  git add /ATM_program
+  229  git add .
+  230  git status
+  231  git restore --staged /users/grayson/desktop/fintech-workspace/python_project/module\ 2/
+  232  git restore --staged .
+  233  cd atm_program
+  234  git add .
+  235  git push
+  236  git status
+  237  git push
+  238  git push
+  239  git status
+  240  git push
+  241  git add .
+  242  git status
+  243  git push
+  244  git commit .
+  245  conda activate dev
+  246  pwd
+  247  cd /users/grayson/desktop/fintech-workspace/python_project/module\ 2/atm_program
+  248  git add .
+  249  git status
+  250  git push
+  251  git branch -f myBranch HEAD
+  252  git status
+  253  git push
+  254  git commit .
+  255  git commit -m "Modified README and added files"
+  256  git push
+  257  git status
+  258  cd
+  259  pwd
+  260  cd /users/grayson/documents/module_2_challenge
+  261  ls
+  262  cd module_2_challenge
+  263  ls
+  264  git commit .
+  265  git add .DS_Store
+  266  git add loan_qualifier_app
+  267  dos2unix file
+  268  git status
+  269  git push -m added loan qualifier app
+  270  git status
+  271  git commit . -m 'added the loan qualifier app.'
+  272  git status
+  273  git push -m 'added the loan qualifier application'
+  274  git push
+  275  git push .
+  276  git status
+  277  git push .
+  278  git push --set-upstream . main
+  279  git push .
+  280  git status
+  281  pwd
+  282  git status
+  283  ls
+  284  ls
+  285  cd loan_qualifier_app
+  286  ls
+  287  python app.py
+  288  python app.py
+  289  python app.py
+  290  python app.py
+  291  python app.py
+  292  python app.py
+  293  python app.py
+  294  python app.py
+  295  ls
+  296  cd ..
+  297  ls
+  298  cd ..
+  299  ls
+  300  cd module_2_challenge
+  301  git commit .
+  302  conda activate dev
+  303  cd /users/grayson/documents/challenges/module_2_challenge
+  304  ls
+  305  cd loan_qualifier_app
+  306  ls
+  307  python app.py
+  308  cd ..
+  309  ls
+  310  git commit . -m "added the code to save to csv."
+  311  git status
+  312  git add loan_qualifier_app/data/qualified_loans.csv
+  313  git status
+  314  git push
+  315  python app.py
+  316  ls
+  317  cd loan_qualifier_app
+  318  ls
+  319  python app.py
+  320  python app.py
+  321  python app.py
+  322  python app.py
+  323  python app.py
+  324  ls
+  325  cd ..
+  326  ls
+  327  git commit . -m "moved save_csv function to utils folder"
+  328  git status
+  329  git add \tloan_qualifier_app/qualifier/utils/save_csv.py\n
+  330  git status
+  331  git push
+  332  git push
+  333  ls
+  334  cd loan_qualifier_app
+  335  ls
+  336  python app.py
+  337  python app.py
+  338  python app.py
+  339  git clone https://github.com/ghedrick76/module_2_challenge.git
+  340  python app.py
+  341  python app.py
+  342  python app.py
+  343  python app.py
+  344  python app.py
+  345  python app.py
+  346  python app.py
+  347  python app.py
+  348  python app.py
+  349  python app.py
+  350  python app.py
+  351  python app.py
+  352  python app.py
+  353  python app.py
+  354  python app.py
+  355  python app.py
+  356  ls
+  357  cd ..
+  358  ls
+  359  git commit -m "added the functionality for user to choose whether or not to save the qualifying loans to a new CSV file"
+  360  git status
+  361  git add modified:   loan_qualifier_app/app.py\n\tmodified:   loan_qualifier_app/data/qualified_loans.csv\n
+  362  git status
+  363  git add \tloan_qualifier_app/module_2_challenge/\n
+  364  git status
+  365  git add loan_qualifier_app/app.py
+  366  git add loan_qualifier_app/data/qualified_loans.csv
+  367  git status
+  368  git restore --staged loan_qualifier_app/app.py loan_qualifier_app/data/qualified_loans.csv\nloan_qualifier_app/module_2_challenge\n
+  369  git status
+  370  git restore --staged loan_qualifier_app/module_2_challenge\n
+  371  git status
+  372  git commit . -m "added the functionality for user to determine whether or not they wish to save the qualifying loans to a new CSV file"
+  373  git status
+  374  git add loan_qualifier_app/module_2_challenge/\n
+  375  git status
+  376  git push
+  377  ls
+  378  cd loan_qualifier_app
+  379  python app.py
+  380  python app.py
+  381  git commit . -m "added the ability for the user to choose where to save their qualifying loans"
+  382  git status
+  383  git push
+  384  git status
+  385  python app.py
+  386  pwd
+  387  cd ..
+  388  history 50 > terminal_history.txt
+  389  git status
+  390  git commit . -m "Updated README file, included documentation, screenshots, etc. and touched up the code in minor ways"
+  391  git push
+  392  git status
+  393  git add loan_qualifier_app/module_2_challenge 
+  394  git add loan_qualifier_app/.DS_Store
+  395  git add loan_qualifier_app/Screenshots/\n
+  396  git add terminal_history.txt
+  397  git status
+  398  git add loan_qualifier_app/module_2_challenge 
+  399  git status
+  400  git push
+  401  git status
+  402  git add loan_qualifier_app/module_2_challenge
+  403  git status
+  404  cd ..
+  405  cd module_2_challenge
+  406  ls
+  407  cd loan_qualifier_app
+  408  ls
+  409  cd module_2_challenge
+  410  ls
+  411  ls
+  412  cd ..
+  413  cd qualifier
+  414  ls
+  415  cd ..
+  416  cd ..
+  417  ls
+  418  cd loan_qualifier_app
+  419  ls
+  420  cd Screenshots
+  421  ls
+  422  git commit . -m "screenshots"
+  423  git status
+  424  git push
+  425  cd ..
+  426  ls
+  427  python app.py
+  428  jpwd
+  429  pwd
+  430  ls
+  431  python app.py
+  432  python app.py
+  433  python app.py
+  434  python app.py
+  435  python app.py
+  436  python app.py
+  437  git status
+  438  cd ..
+  439  ls
+  440  git commit .
+  441  git commit . -m "Moved save_csv function to fileio.py to minimize clutter, and also fixed the code within the loop in save_csv function"
+  442  git status
+  443  git add loan_qualifier_app/module_2_challenge 
+  444  git status
+  445  git push
+  446  git status
+  447  git rm loan_qualifier_app/module_2_challenge\n
+  448  git status
+  449  cd ..
+  450  ls
+  451  cd module_2_challenge
+  452  ls
+  453  git commit . -m "Removed unnecessary file"
+  454  git push
+  455  history
+  456  history 50
+  457  history 1
+  458  conda activate dev
+  459  jupyter lab
+  460  conda activate dev
+  461  jupyterlab
+  462  conda activate dev
+  463  jupyter lab
+  464  conda activate dev
+  465  conda activate dev
+  466  cd /users/grayson/downloads/02_Headerless_Horsemen
+  467  jupyter lab
+  468  conda activate dev
+  469  conda activate dev
+  470  cd /users/grayson/downloads/03_Fix_Rows
+  471  jupyter lab
+  472  cd ..
+  473  cd 03_IPO_Excitement
+  474  jupyter lab
+  475  cd ..
+  476  cd 01_Missing_Data
+  477  ls
+  478  cd 01-Missing_Data
+  479  jupyter lab
+  480  cd /users/grayson/downloads/01_Missing_Money
+  481  jupyter lab
+  482  conda deactivate dev
+  483  conda deactivate
+  484  conda activate dev
+  485  conda activate dev
+  486  cd /users/grayson/documents
+  487  ls
+  488  cd ..
+  489  ls
+  490  cd downloads
+  491  ls
+  492  cd ..
+  493  ls
+  494  cd documents
+  495  ls
+  496  cd JupyterLab
+  497  ls
+  498  jupyterlab
+  499  conda activate dev
+  500  jupyterlab
+  501  JupyterLab
+  502  conda deactivate
+  503  conda activate dev
+  504  jupyterlab
+  505  conda activate dev
+  506  jupyterlab
+  507  jupyter lab
+  508  ls
+  509  cd 02_Dollars_and_Change
+  510  jupyter lab
+  511  ls
+  512  cd ..
+  513  jupyter lab
+  514  ls
+  515  cd ..
+  516  cd ..
+  517  cd /downloads
+  518  cd downloads
+  519  ls
+  520  cd 4.StuDataframe.md
+  521  jupyter lab
+  522  cd Class_1_Activities 3
+  523  ls
+  524  cd Class_1_Activities
+  525  ls
+  526  cd ..
+  527  cd Class_1_Activities 3\n
+  528  ls
+  529  cd Class_1_Activities 3
+  530  jupyter lab
+  531  conda deactivate
+  532  good night
+  533  night
+  534  /usr/bin/python3 /Users/grayson/Downloads/currency-converter-project.py
+  535  /usr/bin/python3 /Users/grayson/Downloads/currency-converter-project.py
+  536  /usr/bin/python3 /Users/grayson/Downloads/currency-converter-project.py
+  537  /usr/bin/python3 /Users/grayson/Downloads/currency-converter-project.py
+  538  /usr/bin/python3 /Users/grayson/Downloads/currency-converter-project.py
+  539  /usr/bin/python3 /Users/grayson/Downloads/currency-converter-project.py
+  540  /opt/anaconda3/envs/dev/bin/python /Users/grayson/Downloads/currency-converter-project.py
+  541   /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/launcher 63968 -- /Users/grayson/Downloads/currency-converter-project.py 
+  542  conda activate dev2
+  543  conda install -c pyviz hvplot geoviews
+  544  ls
+  545  cd documents
+  546  cd jupyterlab
+  547  ls
+  548  jupyter lab
+  549  cd week_6
+  550  jupyter lab
+  551  cd ..
+  552  cd week_6
+  553  jupyter lab
+  554  jupyter lab
+  555  jupyter lab
+  556  conda list geoviews
+  557  jupyter lab
+  558  jupyter lab
+  559  cd ..
+  560  cd ..
+  561  ls
+  562  cd challenges
+  563  ls
+  564  git clone https://github.com/ghedrick76/module_6_challenge.git
+  565  git add .
+  566  cd module_6_challenge
+  567  git add .
+  568  git commit . -m "Initial commit of starter files"
+  569  git push
+  570  jupyter lab
+  571  git add .
+  572  git commit -m "Housing units per year chart analyzed"
+  573  git push
+  574  git status
+  575  git push
+  576  git push
+  577  jupyter lab
+  578  git add .
+  579  git commit . -m "Average sale price per sqft calculated and plotted.  Fixed the code for the first step"
+  580  git push
+  581  jupyter lab
+  582  git add .
+  583  git commit . "Comparison of average sale prices by neighborhood completed"
+  584  git commit -m "Comparison of average sale prices by neighborhood completed"
+  585  git push
+  586  jupyter lab
+  587  history < 50 history.txt
+  588  history 50 history.txt
+  589  history -50 > history.txt
+  590  git add .
+  591  git commit . -m "Analysis completed, history txt file uploaded"
+  592  git push
+  593  jupyter lab
+  594  git add .
+  595  git commit -m "updated readme"
+  596  git push
+  597  git add .
+  598  git commit . -m "fixed an unanswered question."
+  599  git push
+  600  cd ..
+  601  ls
+  602  cd ..
+  603  ls
+  604  cd jupyterlab
+  605  jupyter lab
+  606  conda deactivat dev2
+  607  conda deactivate
+  608  conda activate dev
+  609  conda list sqlalchemy
+  610  conda list voila
+  611  conda install voila
+  612  cd ..
+  613  ls
+  614  cd jupyterlab
+  615  cd week_7
+  616  jupyter lab
+  617  cd ..
+  618  jupyter lab
+  619  pip3 install alpaca-trade-api
+  620  jupyter lab
+  621  pip install msgpack
+  622  pip3 install msgpack
+  623  jupyter lab
+  624  pip install -U msgpack
+  625  pip uninstall msgpack
+  626  pip install -U msgpack
+  627  jupyter lab
+  628  list numpy
+  629  conda list numpy
+  630  conda list
+  631  pip install pandas --upgrade
+  632  jupyter lab
+  633  ls
+  634  cd week_7
+  635  jupyter lab
+  636  cd ..
+  637  cd ..
+  638  cd challenges
+  639  ls
+  640  git clone https://github.com/ghedrick76/module_7_challenge.git
+  641  cd module_7_challenge
+  642  jupyter lab
+  643  git add .
+  644  git commit . -m "PYPL analyzed"
+  645  git push
+  646  jupyter lab
+  647  git add .
+  648  git commit . -m "optimized sql queries"
+  649  git push
+  650  jupyter lab
+  651  git add .
+  652  git commit . -m "FinTech portfolio analyzed"
+  653  git push
+  654  jupyter lab
+  655  git clone https://github.com/ghedrick76/module_7_challenge.git
+  656  git status
+  657  jupyter lab
+  658  cd ..
+  659  git clone https://github.com/ghedrick76/module_7_challenge.git
+  660  cd module_7
+  661  cd module_7_challenge
+  662  jupyter lab
+  663  git add .
+  664  git commit . -m "fixed some calculations"
+  665  git push
+  666  jupyter lab
+  667  voila Starter_Code/etf_analyzer.ipynb
+  668  ls
+  669  cd Starter_Code
+  670  ls
+  671  voila etf_analyzer.ipynb
+  672  conda install -c conda-forge voila
+  673  conda list voila
+  674  pip install voila
+  675  conda list voila
+  676  voila Starter_Code/etf_analyzer.ipynb
+  677  cd ..
+  678  history > 50 terminal_history.txt
+  679  history > 50 history.txt
+  680  history > 50 history.txt
+  681  history > history.txt
+  682  conda install voila -c conda-forge
+  683  ls
+  684  history > 50 history.txt
+  685  history 50 > history.txt
+  686  history 50 > history.txt
+  687  ls
+  688  cd starter_code
+  689  ls
+  690  voila etf_analyzer.ipynb
+  691  cd ..
+  692  git add .
+  693  git commit . -m "edited readme, included screen recording of web app"
+  694  git push
+  695  git push
+  696  git push --verbose
+  697  cd starter_code
+  698  ls
+  699  voila etf_analyzer.ipynb
+  700  voila etf_analyzer.ipynb
+  701  git add .
+  702  cd ..
+  703  git add .
+  704  git commit . -m "added history, added screenshots of web app, tidied code"
+  705  git commit
+  706  git push
+  707  git status
+  708  git push
+  709  git push
+  710  conda deactivate
+  711  conda activate dev
+  712  git push
+  713  conda deactivate
+  714  conda activate dev
+  715  git branch
+  716  cd documents
+  717  cd Projects
+  718  cd Project_1_Portfolio_Analyzer
+  719  git branch
+  720  git checkout project-1
+  721  git branch
+  722  git branch checkout project-1
+  723  git branch
+  724  git branch -D checkout
+  725  git branch
+  726  git checkout project-1
+  727  git add .
+  728  git commit . -m "test"
+  729  git push
+  730  git checkout project-1
+  731  git branch
+  732  git add .
+  733  git commit . -m "test"
+  734  git push
+  735  git push --set-upstream origin project-1
+  736  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  737  git config pull.rebase false
+  738  git status
+  739  git add .
+  740  git status
+  741  git commit -m "test"
+  742  git push
+  743  git push --set-upstream origin project-1
+  744  git branch
+  745  git add .
+  746  git commit . -m "added API"
+  747  git push
+  748  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  749  conda activate dev
+  750  cd documents
+  751  cd proJECTS
+  752  ls
+  753  cd Project_1_Portfolio_Analyzer
+  754  git status
+  755  conda activate dev
+  756  git push
+  757  cd ..
+  758  cd ..
+  759  cd documents
+  760  l
+  761  ls
+  762  cd challenges
+  763  ls
+  764  git clone https://github.com/ghedrick76/module_7_challenge.git
+  765  cd module_7_challenge
+  766  git add .
+  767  git commit . -m "added screenshots of web app to readme, fixed some calculations for ETF"
+  768  git push
+  769  cd ..
+  770  cd ..
+  771  cd jupyterlab
+  772  jupyter lab
+  773  voila test.ipynb
+  774  y
+  775  jupyter lab
+  776  conda list holoviews
+  777  jupyter lab
+  778  cd ..
+  779  cd challenges
+  780  cd module_5_challenge
+  781  jupyter lab
+  782  cd ..
+  783  cd ..
+  784  cd jupyterlab
+  785  jupyter lab
+  786  cd ..
+  787  cd challenges
+  788  cd module_5_challenge
+  789  jupyter lab
+  790  conda list mcforecasttools
+  791  conda install mcforecasttools
+  792  conda list mcforecasttools
+  793  pip install mcforecasttools
+  794  jupyter lab
+  795  jupyter lab
+  796  git add .
+  797  git commit . -m "added test file"
+  798  git push
+  799  conda deactivate
+  800  good night
+  801  night
+  802  conda activate dev
+  803  jupyter lab
+  804  cd ..
+  805  cd ..
+  806  mkdir Projects
+  807  cd Projects
+  808  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  809  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  810  git init https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  811  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  812  ls
+  813  ls
+  814  git pull fatal: not a git repository (or any of the parent directories): .git
+  815  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  816  git clone https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  817  jupyter lab
+  818  git add .
+  819  cd ..
+  820  cd Projects
+  821  ls
+  822  cd Project_1_Portfolio_Analyzer
+  823  git add .
+  824  git commit . -m "added some starter files, started README"
+  825  git push
+  826  shell
+  827  shell git branch
+  828  git branch
+  829  git checkout project-1
+  830  git branch
+  831  git checkout -b project-1
+  832  git branch
+  833  git clone https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  834  git add .
+  835  git commit -m "pull request test"
+  836  git push origin project-1
+  837  git branch
+  838  git branch -D project-1
+  839  git checkout main
+  840  git branch -D project-1
+  841  git branch
+  842  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  843  git add .
+  844  git commit . -m "test"
+  845  git push
+  846  git checkout project-1
+  847  git branch
+  848  git add .
+  849  git commit -m "test"
+  850  git push origin project-1
+  851  git status
+  852  git add .
+  853  git commit -m "test"
+  854  git push
+  855  git add .
+  856  git commit . -m "tets"
+  857  cd ..
+  858  git clone https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  859  git clone https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  860  git branch
+  861  cd Project_1_Portfolio_Analyzer
+  862  git branch
+  863  git checkout -b project-1
+  864  git branch
+  865  git add .
+  866  git commit . -m "test"
+  867  git push origin project-1
+  868  git pull
+  869  git pull https://github.com/ghedrick76/Project_1_Portfolio_Analyzer.git
+  870  git status
+  871  git push
+  872  git push --set-upstream origin project-1
+  873  git fetch
+  874  git checkout -b project-1 origin/project-1
+  875  git branch
+  876  jupyter lab
+  877  conda list mcforecasttools
+  878  conda install mcforecasttools
+  879  pip install mcforecasttools
+  880  pip install MCForecastTools
+  881  conda install mcforecasttools
+  882  jupyter lab
+  883  git branch
+  884  git add .
+  885  git commit . -m "added MCForeastTools, read SP500 data from CSV"
+  886  git push
+  887  git push --set-upstream origin project-1
+  888  git status
+  889  git checkout main
+  890  git pull
+  891  git status
+  892  git status
+  893  jupyter lab
+  894  git branch
+  895  git add .
+  896  git commit . -m "added MCForecastTools, read S&P 500 csv and cleaned data"
+  897  git push
+  898  jupyter lab
+  899  git status
+  900  git add .
+  901  git commit -m "fixed README spaces"
+  902  git push
+  903  jupyter lab
+  904  jupyter lab
+  905  git branch
+  906  branch checkout project-1
+  907  jupyter lab
+  908  jupyter lab
+  909  jupyter server --generate-config
+  910  jupyter lab
+  911  jupyter lab --config c. ContentsManager.allow_hidden = True
+  912  jupyter lab
+  913  jupyter lab
+  914  conda activate dev
+  915  cd documents
+  916  cd Projects
+  917  cd Project_1_Portfolio_Analyzer
+  918  jupyter lab
+  919  conda deactivate
+  920  conda activate dev
+  921  cd documents
+  922  cd projects
+  923  cd Project_1_Portfolio_Analyzer
+  924  ls
+  925  git branch
+  926  git add .
+  927  git commit . -m "fixed API"
+  928  git status
+  929  git commit
+  930  git commit . -m "test"
+  931  git commit -m "commit"
+  932  git push
+  933  git status
+  934  git status
+  935  git add .
+  936  git commit . -m "API integration completed"
+  937  git push
+  938  git status
+  939  git add .
+  940  git commit . -m "added ticker closing prices and values"
+  941  git push
+  942  git add .
+  943  git commit . -m "added portfolio value calculator"
+  944  git push
+  945  pip install yfinance
+  946  git branch
+  947  git status
+  948  git add .
+  949  git commit . -m "added SP500 daily returns, fixed code readability"
+  950  git push
+  951  git add .
+  952  git commit . -m "added pct change of sp500 and each selected ticker, cleaned code"
+  953  git push
+  954  git push
+  955  conda deactivate
+  956  git status
+  957  cd documents
+  958  ls
+  959  cd challenges
+  960  ls
+  961  cd module_6_challenge
+  962  ls
+  963  cd Starter_Code
+  964  ls
+  965  cd ..
+  966  cd ..
+  967  cd module_5_challenge
+  968  ls
+  969  cd Starter_Code
+  970  ls
+  971  jupyter lab
+  972  conda activate dev
+  973  jupyter lab
+  974   /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49969 -- /Users/grayson/Documents/tickers.py 
+  975   cd /Users/grayson/Documents ; /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 49983 -- /Users/grayson/Documents/tickers.py 
+  976   cd /Users/grayson/Documents/Challenges/module_5_challenge/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54486 -- /Users/grayson/Documents/Challenges/module_5_challenge/Starter_Code/financial_planning_tools.ipynb 
+  977   cd /Users/grayson/Documents/Challenges/module_5_challenge/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54497 -- /Users/grayson/Documents/Challenges/module_5_challenge/Starter_Code/financial_planning_tools.ipynb 
+  978   cd /Users/grayson/Documents ; /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 54681 -- "/Users/grayson/Documents/import yfinance as yf.py" 
+  979   cd /Users/grayson/Documents/Challenges/module_5_challenge/Starter_Code ; /usr/bin/env /usr/bin/python3 /Users/grayson/.vscode/extensions/ms-python.python-2022.4.1/pythonFiles/lib/python/debugpy/launcher 56928 -- /Users/grayson/Documents/Challenges/module_5_challenge/Starter_Code/financial_planning_tools.ipynb 
+  980  conda activate dev
+  981  cd documents
+  982  cd projects
+  983  cd Project_1_Portfolio_Analyzer
+  984  jupyter lab
+  985  jupyter lab
+  986  git add .
+  987  git commit . -m "fixed 'portfolio value' plot, cleaned code for final submission"
+  988  git push
+  989  y
+  990  git push
+  991  git push
+  992  git status
+  993  git push
+  994  git push -u origin Main
+  995  git push -u origin project-1
+  996  conda deactivate
+  997  /usr/bin/python3 /Users/grayson/Documents/Personal/moving_rectangle.py
+  998  conda activate dev
+  999  /usr/bin/python3 /Users/grayson/Documents/Personal/moving_rectangle.py
+ 1000  /usr/bin/python3 /Users/grayson/Documents/Personal/moving_rectangle.py
+ 1001  conda activate dev
+ 1002  ls
+ 1003  cd documents/challenges/module_10_challenge
+ 1004  ls
+ 1005  cd ..
+ 1006  git clone https://github.com/ghedrick76/module_10_challenge.git
+ 1007  git clone https://github.com/ghedrick76/module_10_challenge.git
+ 1008  git status
+ 1009  cd module_10_challenge
+ 1010  git status
+ 1011  git add .
+ 1012  git commit . -m "committing starter files"
+ 1013  git push
+ 1014  git add .
+ 1015  git commit . -m "found best k-value and optimized clusters with PCA"
+ 1016  git push
+ 1017  git add .
+ 1018  git commit . -m "analysis complete"
+ 1019  git push
